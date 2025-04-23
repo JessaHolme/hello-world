@@ -8,3 +8,7 @@ This is a standard paragraph.
 ###### six heading 
 # one heading  
 another line
+
+_italicise_
+
+**bold** 
